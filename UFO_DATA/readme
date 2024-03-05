@@ -1,0 +1,10 @@
+Please install the following libraries before running the application, if not installed in your system.
+
+# install.packages('shinythemes')
+# install.packages('shinyalert')
+# install.packages('plotrix')
+# install.packages('plotly')
+# install,packages('shiny')
+# install,packages('tidyverse')
+# install,packages('dplyr')
+# install,packages('ggplot2')
