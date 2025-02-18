@@ -31,7 +31,7 @@ The idea of life existing in other corners of the universe and visiting our plan
 
 ## Data Cleaning & Wrangling  
 
-### **1️UFO Sighting Data**  
+### **UFO Sighting Data**  
 - The dataset was extracted from a **raw JSON file** containing **138,018 sightings** dating back to the 1930s.  
 - Data fields extracted: `datetime`, `city`, `state`, `country`, `shape`, `duration`, and `summary`.  
 - **Challenges:**
